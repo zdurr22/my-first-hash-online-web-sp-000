@@ -1,7 +1,7 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 my_hash = {
-  "my name" => "Zachary Durr"
+  "my name" => "Zachary Durr",
   "my job" => "Project Manager at MJ Daly"
 }
 
@@ -13,8 +13,8 @@ def shipping_manifest
   # fill that hash with key/value pairs that describe the following information:
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
 the_manifest = {
-  "whale bone corsets" => 5
-  "porcelain vases" => 2
+  "whale bone corsets" => 5,
+  "porcelain vases" => 2,
   "oil paintings" => 3
 }
 
